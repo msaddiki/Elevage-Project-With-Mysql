@@ -1,4 +1,4 @@
-
+#modify by mohamed
 LOAD DATA local INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/customers.csv'
 INTO TABLE customers
 FIELDS TERMINATED BY ',' -- separateur: ;|
